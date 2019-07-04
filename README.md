@@ -1,6 +1,4 @@
-# Platformer
- game using C++ and WebAssembly
-
+# Platformer game using C++ and WebAssembly
 
 This game shows using of WebAssembly with 2d game written in C++.
 
